@@ -1,0 +1,20 @@
+Thanks downloading Chat Box API Package.. 
+
+..........Instructions..................
+
+The files are linked to each other, changing the directories of the file may cause failure of Chat Box Performance. For your refrecnce index.php file is present. All the pages in which you want to add chat, you will have to place it in the same directory. Or you will have to change the direcories of the other linked files. 
+
+...............How to Use...............
+
+Step 1:- Configure your chat box API, Go to php/config.php and add your basic admin details where asked. 
+ 
+Step 2:- Add chat box to your pages where needed :)
+
+Its all done... 
+
+
+For More details Visit chatbox.stylpix.com/description.php
+
+A chat box For your Website - Gaurav Mourya.
+
+Feel Free to use. Its all yours.
